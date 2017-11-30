@@ -9,10 +9,10 @@ This demo is a draft re-design of DAS and the Catalog that provides actionable g
 ## Software Design
 For more details please read the [Software Design Document (SDD)](https://github.com/usnationalarchives/catalog-scalability-demo/blob/master/documentation/html/TO5_Software_Design_Doc_v1_0_11_15_2017_Final.html).
 
-## System Architecture Changes
+## System Architecture
 For more details please read the [System Architecture Document (SAD)](https://github.com/usnationalarchives/catalog-scalability-demo/blob/master/documentation/html/TO5_System_Architecture_Doc_v1_11_15_2017_Final.html).
 
-## Aurora and Elastic Search Analysis
+## Aurora and Elastic Search
 NARA will design a new, horizontally-scalable data store implemented in Amazon Aurora and shared between DAS and the National Archives Catalog, and a new search cluster implemented in AWS Elasticsearch Service that can service both systems.
 
 For more details please read the [Aurora and Elastic Search Analysis Document](https://github.com/usnationalarchives/catalog-scalability-demo/blob/master/documentation/html/AWS-AuroraandElasticSearchAnalysisDocument_v1_11152017_Final.html).
