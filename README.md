@@ -10,13 +10,13 @@ This demo is a draft re-design of DAS and the Catalog that provides actionable g
 For more details please read the [System Architecture Document (SAD)](https://github.com/usnationalarchives/catalog-scalability-demo/blob/master/TO5_System_Architecture_Doc_v1_0_9_25_2017_Preliminary_Version.docx).
 ### Current Architecture
 #### Description and Authority Service (DAS)
-![DAS current architecture](https://github.com/usnationalarchives/catalog-scalability-demo/blob/master/architecture/dascurrent.png)
+![DAS current architecture](https://github.com/usnationalarchives/catalog-scalability-demo/blob/master/documentation/html/TO5_System_Architecture_Doc_v1_11_15_2017_Final.fld/image004.png)
 #### National Archives Catalog
-![Catalog current architecture](https://github.com/usnationalarchives/catalog-scalability-demo/blob/master/architecture/catalogcurrent.png)
+![Catalog current architecture](https://github.com/usnationalarchives/catalog-scalability-demo/blob/master/documentation/html/TO5_System_Architecture_Doc_v1_11_15_2017_Final.fld/image005.png)
 ### Future Architecture
 #### Description and Authority Service (DAS)
-![DAS future architecture](https://github.com/usnationalarchives/catalog-scalability-demo/blob/master/architecture/dasfuture.png)
+![DAS future architecture](https://github.com/usnationalarchives/catalog-scalability-demo/blob/master/documentation/html/TO5_System_Architecture_Doc_v1_11_15_2017_Final.fld/image006.png)
 #### National Archives Catalog
-![Catalog future architecture](https://github.com/usnationalarchives/catalog-scalability-demo/blob/master/architecture/catalogfuture.png)
+![Catalog future architecture](https://github.com/usnationalarchives/catalog-scalability-demo/blob/master/documentation/html/TO5_System_Architecture_Doc_v1_11_15_2017_Final.fld/image007.png)
 #### Combined DAS-Catalog Architecture
-![Comebined DAS-Catalog architecture](https://github.com/usnationalarchives/catalog-scalability-demo/blob/master/architecture/dascatalogarchitecture.png)
+![Comebined DAS-Catalog architecture](https://github.com/usnationalarchives/catalog-scalability-demo/blob/master/documentation/html/TO5_System_Architecture_Doc_v1_11_15_2017_Final.fld/image008.png)
